@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/traina_grindstone/static/css/main.f6a6376f.chunk.css",
+    "main.js": "/traina_grindstone/static/js/main.12a79425.chunk.js",
+    "main.js.map": "/traina_grindstone/static/js/main.12a79425.chunk.js.map",
+    "runtime~main.js": "/traina_grindstone/static/js/runtime~main.136ae2f7.js",
+    "runtime~main.js.map": "/traina_grindstone/static/js/runtime~main.136ae2f7.js.map",
+    "static/js/2.50f842ac.chunk.js": "/traina_grindstone/static/js/2.50f842ac.chunk.js",
+    "static/js/2.50f842ac.chunk.js.map": "/traina_grindstone/static/js/2.50f842ac.chunk.js.map",
+    "index.html": "/traina_grindstone/index.html",
+    "precache-manifest.743295d795903c333e81bfa7e48f8b66.js": "/traina_grindstone/precache-manifest.743295d795903c333e81bfa7e48f8b66.js",
+    "service-worker.js": "/traina_grindstone/service-worker.js",
+    "static/css/main.f6a6376f.chunk.css.map": "/traina_grindstone/static/css/main.f6a6376f.chunk.css.map",
+    "static/media/logo.svg": "/traina_grindstone/static/media/logo.834adf72.svg"
+  }
+}
